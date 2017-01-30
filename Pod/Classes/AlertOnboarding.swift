@@ -218,7 +218,7 @@ open class AlertOnboarding: UIView, AlertPageViewDelegate {
     //MARK: BUTTON ACTIONS ---------------------------------
     
     func onClick(){
-        self.hide()
+       // self.hide()
     }
     
     //MARK: ALERTPAGEVIEWDELEGATE    --------------------------------------
