@@ -219,6 +219,7 @@ open class AlertOnboarding: UIView, AlertPageViewDelegate {
     
     func onClick(){
        // self.hide()
+        self.checkIfOnboardingWasSkipped()
     }
     
     //MARK: ALERTPAGEVIEWDELEGATE    --------------------------------------
